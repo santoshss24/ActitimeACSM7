@@ -1,5 +1,12 @@
 package testcases;
 
-public class TC002 {
+import org.testng.annotations.Test;
 
+public class TC002 {
+	
+	@Test
+	public void login()
+	{
+		
+	}
 }
